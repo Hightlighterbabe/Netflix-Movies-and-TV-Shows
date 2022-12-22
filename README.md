@@ -4,8 +4,8 @@
 
 Каждый год мы в Stack Overflow спрашиваем сообщество разработчиков обо всем, от их любимых технологий до их предпочтений в работе. В январе 2018 года более 100 000 разработчиков приняли участие в 30-минутном опросе. Давайте раассмотрим данный датасет.
 
-Ссылка на гугл-диск с видео-защитой: https://drive.google.com/drive/folders/1GN6gCwZCoH7vPGEIUXvFLQW7m7PNheYz?hl=ru
-Ссылка на датасет: https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2018-developer-survey
+- Ссылка на гугл-диск с видео-защитой: https://drive.google.com/drive/folders/1GN6gCwZCoH7vPGEIUXvFLQW7m7PNheYz?hl=ru
+- Ссылка на датасет: https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2018-developer-survey
 
 Содержимое датасета:
 1. Импортирование набора данных и его исследование
